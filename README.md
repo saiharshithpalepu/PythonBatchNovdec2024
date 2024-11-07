@@ -31,5 +31,29 @@ To commit the changes
 
     git commit -m "commit message"
 
+To Push the changes
+
+    git push origin <sourcebranch>
+
+### Daily
+
+To check the branch is clean :
+
+    git status
+
+To checkout to the main branch
+
+    git checkout main
+
+To get the latest changes:
+
+    git pull origin main
+
+To create a new branch:
+
+    git checkout -b <newbranchname>
+
+
+
 
 
