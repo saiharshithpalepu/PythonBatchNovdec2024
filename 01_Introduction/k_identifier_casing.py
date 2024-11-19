@@ -12,14 +12,14 @@ Purpose: Identifier Casing
 # variable casing
 # 1. Snake casing or underscore casing
 
-stu_name = "Harshi"
-stu_cls = "Python"
-stu_num = 12345
-stu_mail_id = "harshi@gmail.com"
+student_name = "Sai"
+student_cls = "Python"
+student_num = 12345
+student_mail_id = "Sai@gmail.com"
 
 # 2. Camel casing
 
-StudentName = "Harshi"
+StudentName = "Sai"
 StudentNum = 123456
 StudentID = 2146
 StudentSectionIs = "Python"

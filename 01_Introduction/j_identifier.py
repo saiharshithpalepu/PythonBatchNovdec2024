@@ -15,7 +15,7 @@ print(keyword.kwlist)
 print(True) # True
 # print(true) NameError: name 'true' is not defined.
 
-my_val = "apple"
+my_val = "orange"
 print(my_val) # identifier
 
 # True = "Apple" # SyntaxError: cannot assign to True
@@ -42,8 +42,8 @@ true_val = 123
 none_res = "nothing"
 
 # ------Rule 2 & 3-----
-name = "apple"
-my_name_is = "Harshi"
+name = "orange"
+my_name_is = "Sai"
 num_02_is = 123
 
 # PEP 8 recommends to used Capitals for constants
