@@ -15,3 +15,14 @@ Algorithm:
 
 NOTE: handle case-sensitivity 
 """
+
+char = str(input("Please enter the character:"))
+
+if not char:
+    print("you have not entered  valid character")
+elif not char.isalpha():
+    print("You have not entered valid alphabet")
+elif char in 'aeiou':
+    print("You have entered vowel")
+else:
+    print("you have entered consonant")
