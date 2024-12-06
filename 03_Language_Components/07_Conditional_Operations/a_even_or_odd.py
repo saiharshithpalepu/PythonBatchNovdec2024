@@ -67,3 +67,8 @@ else:
 # and display, if it is even
 
 # TIP - range, if condition within it, print function
+
+for number in range(45,138):
+
+    if number%2==0:
+        print(number)
