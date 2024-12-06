@@ -49,3 +49,4 @@ Assignment: Progress bar implementation
     [********* ]  90
     [**********] 100
 """
+
